@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
-
+![SimulatorScreenRecording-iPhone16Pro-2025-03-12at16 33 27-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5115efc9-c657-4a5e-9421-8dc838ba764d)
 
 ## License
 
